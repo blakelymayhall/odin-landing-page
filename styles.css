@@ -49,7 +49,7 @@ a {
 
 .hero-title {
   font-size: 48px;
-  font-weight: 900;
+  font-weight: 700;
   margin-top: 120px;
   color: #F9FAF8;
 }
@@ -79,7 +79,7 @@ img {
 .second-quarter {
   padding: 200px;
   padding-top: 0px;
-  padding-bottom: 125px;
+  padding-bottom: 75px;
   text-align: center;
 }
 
@@ -107,4 +107,84 @@ img {
   width: 150px;
   height: 150px;
   border-radius: 12px;
+}
+
+.third-quarter {
+  padding-left: 335px;
+  padding-right: 315px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: left;
+  background:  #E5E7EB
+}
+
+.inspo-quote {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+  color: #1F2937;
+  margin-bottom: 0;
+}
+
+.inspo-author {
+  margin-top: 0;
+  text-align: right;
+  font-size: 24px;
+  font-weight: 500;
+  color: #1F2937;
+  padding-right: 20px;
+}
+
+.fourth-quarter {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.blue-container {
+  background: #3882F6;
+  width: 1000px;
+  height: 150px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sign-up-prompt {
+  padding-left: 100px;
+  color: #E5E7EB;
+}
+
+.sign-up-head {
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.sign-up-text {
+  margin-top: 0;
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.sign-up-button {
+  margin-right: 100px;
+  background-color: #3882F6;
+  color: #E5E7EB;
+  border: 2px solid #E5E7EB;
+  border-radius: 12px;
+  width: 140px;
+  height: 40px;
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.footer {
+  text-align: center;
+  background: #1F2937;
+  color:#E5E7EB;
+  padding: 25px;
+  font-size: 16px;
 }
