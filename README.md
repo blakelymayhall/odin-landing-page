@@ -6,4 +6,4 @@ This is a "capstone project" for the HTML and CSS fundamentals course in the odi
 
 The goal is to re-create this website design without using the solutions, from "scratch": 
 
-![Webpage](goal\example.png)
+![Webpage](goal/example.png)
